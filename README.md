@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 博客访问地址：[https://www.fangzhipeng.com/](https://www.fangzhipeng.com/)
 
 我的微信公众号：**方志朋** ，可以回复 666 ，获取java架构师资料，有惊喜。
-![](https://static.javajike.com/img/common/wx-fzp3.png)
+![](https://static.javajike.com/img/common/wx-fzp.png)
 
 
